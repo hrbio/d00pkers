@@ -30,3 +30,4 @@
 |remove|Usuwa piosenke z kolejki|-remove <nr piosenki>|
 |shuffle|shuffluje kolejke|-shuffle|
 |skip|Skipuje piosenke|-skip|
+ essa :D
